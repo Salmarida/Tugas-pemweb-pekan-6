@@ -1,0 +1,146 @@
+.colomyellow {
+    background-color: darkred;
+    width: 200px;
+    height: 700px;
+    border: 2px solid silver;
+    box-sizing: border-box;
+    float: left;
+    margin: 10px;
+}
+
+.colomblue {
+    background-color: darkorange;
+    width: 200px;
+    height: 700px;
+    border: 2px solid silver;
+    box-sizing: border-box;
+    float: left;
+    margin: 10px;
+}
+
+.colomgreen {
+    background-color: greenyellow;
+    width: 200px;
+    height: 700px;
+    border: 2px solid silver;
+    box-sizing: border-box;
+    float: left;
+    margin: 10px;
+}
+
+.colomred {
+    background-color:darkblue;
+    width: 200px;
+    height: 700px;
+    border: 2px solid silver;
+    float: left;
+    margin: 10px;
+}
+
+.atas {
+    background-color: blueviolet;
+    width: 1350px;
+    height: 100px;
+    border: 2px solid silver;
+    box-sizing: border-box;
+    float: left;
+    margin: 1opx;
+}
+
+.kiri {
+    background-color: lightseagreen;
+    width: 200px;
+    height: 200px;
+    border: 2px solid silver;
+    box-sizing: border-box;
+    float: left;
+    margin: 10px;
+}
+
+.kanan {
+    background-color: turquoise;
+    width: 1080px;
+    height: 200px;
+    border: 2px solid silver;
+    box-sizing: border-box;
+    float: right;
+    margin: 10px;
+}
+
+.bawah1 {
+    background-color: lightskyblue;
+    width: 200px;
+    height: 200px;
+    border: 2px solid silver;
+    box-sizing: border-box;
+    float: left;
+    margin: 10px;
+}
+
+.bawah2 {
+    background-color: blue;
+    width: 1080px;
+    height: 200px;
+    border: 2px solid silver;
+    box-sizing: border-box;
+    float: right;
+    margin: 10px;
+}
+
+.box1 {
+    background-color: purple;
+    width: 125px;
+    height: 100px;
+    border: 2px solid silver;
+    float: left;
+    margin: 10px;
+}
+
+.box2 {
+    background-color: darkmagenta;
+    width: 1150px;
+    height: 100px;
+    border: 2px solid silver;
+    box-sizing: border-box;
+    float: right;
+    margin: 10px;
+}
+
+.box3 {
+    background-color: darkorchid;
+    width: 100px;
+    height: 400px;
+    border: 2px solid silver;
+    box-sizing: border-box;
+    float: right;
+    margin: 10px;
+}
+
+.box4 {
+    background-color: grey;
+    width: 1050px;
+    height: 400px;
+    border: 2px solid silver;
+    box-sizing: border-box;
+    float: right;
+    margin: 10px;
+}
+
+.box5 {
+    background-color: orchid;
+    width: 100px;
+    height: 400px;
+    border: 2px solid silver;
+    box-sizing: border-box;
+    float: left;
+    margin: 10px;
+}
+
+.box6 {
+    background-color: palevioletred;
+    width: 1300px;
+    height: 100px;
+    border: 2px solid silver;
+    float: right;
+    margin: 10px;
+}
